@@ -1,9 +1,10 @@
-# mvc-tech-blog-challenge14
 ## Tech Blog
 
 # Description
-The Tech Blog allows the user ti publish blog posts, and comment on other developers posts as well.
+The Tech Blog allows the user to publish blog posts, and comment on other developers posts as well.
 
 # Screenshot
+TBD
 
 # Website
+TBD
